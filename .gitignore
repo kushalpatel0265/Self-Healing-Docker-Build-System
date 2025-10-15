@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.mypy_cache/
+.pytest_cache/
+/.venv
+/.idea
+/.vscode
+/.ruff_cache
+/tmp/
+workspace/
+build_artifacts/
